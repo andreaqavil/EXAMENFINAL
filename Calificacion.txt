@@ -1,0 +1,16 @@
+Detalle Calificacion   5/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 2 = (1, 0, 1). No hay casi nada que calificar, que decepcionante examen.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. Tienen errores, pero su codigo es tan pequeno porque no hicieron mucho que no afectan demasiado. Ironicamente esto las ayudo en este punto.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0 Puntos. Las funciones estan mal usadas, el codigo esta terrible, ni siquiera se puede interpretar todo.
+Buen Uso de Jquery y Galeria (2.5 Puntos): 0 Puntos. Galeria no implementada, los formularios no estan validados.
+Uso de los media Queries (2.5 Puntos): 1 Punto. Hay media queries pero estan mal cerrados y no se puede ver su aplicacion en la pagina. El codigo es basicamente mi archivo de las clases.
+Comentarios (1 Punto): 0 Puntos. No tiene comentarios utiles.
+Pagina con buena estetica (1 Punto): 0 Punto. Su pagina es esteticamente displicente.
+Subio bien a github (1 Punto bonus): 1 Punto. 
+Total: 5
+
+Comentarios Profesor
+Los comentarios estarian de mas, su nota lo dice todo.
+Es el examen mas carente de codigo que he calificado al momento.
+Lo siento, pero deben aprender a programar.
+Mission Failed.
